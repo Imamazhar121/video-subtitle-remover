@@ -168,7 +168,7 @@ cd <源码所在目录>
 - 运行图形化界面
 
 ```shell
-python gui.py
+python gui_qt.py
 ```
 
 - 运行命令行版本(CLI)
